@@ -1,9 +1,3 @@
-# Zomato-Sales-Analysis-Dashboard
-
-Here's a **README.md** content for your Zomato Sales Analysis project, summarizing the key details and structure suitable for GitHub or a portfolio:
-
----
-
 # 🍽️ Zomato Sales Analysis Dashboard
 
 This project provides a detailed sales analysis of Zomato's food delivery performance across various Indian cities using interactive dashboards. It uncovers trends in user behavior, city performance, food preferences, and yearly growth from 2017 to 2020.
